@@ -1,0 +1,8 @@
+../PycharmProjects/FlaskProject/.venv/
+.idea/
+__pycache__/
+*.pyc
+creditcard.csv
+
+git add .gitignore CreditCardFrauds.py app.py
+fraud_model.pkl slabe_cechy.pkl test_api.py
